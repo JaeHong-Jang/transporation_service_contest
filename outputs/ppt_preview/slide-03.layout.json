@@ -1,0 +1,1673 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/h80gzs",
+    "id": "h80gzs",
+    "slide": 3,
+    "layoutId": "6e2f76e5-305f-4cdf-a658-1095c5e8bc4f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "9f1af432-ccee-4145-a5c8-ee22341054f0",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F8FA",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "6e2f76e5-305f-4cdf-a658-1095c5e8bc4f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "9f1af432-ccee-4145-a5c8-ee22341054f0",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "9f1af432-ccee-4145-a5c8-ee22341054f0",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "1",
+      "bbox": [
+        72,
+        44,
+        860,
+        26
+      ],
+      "geometry": "rect",
+      "text": "근거자료",
+      "textPreview": "근거자료",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#0B6B57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거자료"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거자료",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#0B6B57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거자료",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#0B6B57",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulwval8",
+      "id": "2",
+      "bbox": [
+        72,
+        78,
+        1080,
+        78
+      ],
+      "geometry": "rect",
+      "text": "주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다",
+      "textPreview": "주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다",
+              "fontSize": 36,
+              "typeface": "Malgun Gothic",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "3",
+      "bbox": [
+        72,
+        160,
+        1040,
+        44
+      ],
+      "geometry": "rect",
+      "text": "공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.",
+      "textPreview": "공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#52616B",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#52616B",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#52616B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "4",
+      "bbox": [
+        72,
+        242,
+        540,
+        52
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "5",
+      "bbox": [
+        94,
+        252,
+        132,
+        32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F4EF",
+      "lineColor": "#E8F4EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "6",
+      "bbox": [
+        104,
+        259,
+        112,
+        18
+      ],
+      "geometry": "rect",
+      "text": "OECD",
+      "textPreview": "OECD",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Malgun Gothic",
+        "color": "#08493E",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "OECD"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "OECD",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Malgun Gothic",
+            "color": "#08493E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "OECD",
+              "fontSize": 11,
+              "typeface": "Malgun Gothic",
+              "color": "#08493E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "7",
+      "bbox": [
+        248,
+        256,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "주거비 과부담과 affordability를 주요 정책 이슈로 제시",
+      "textPreview": "주거비 과부담과 affordability를 주요 정책 이슈로 제시",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "주거비 과부담과 affordability를 주요 정책"
+          },
+          {
+            "index": 2,
+            "text": "이슈로 제시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "주거비 과부담과 affordability를 주요 정책 이슈로 제시",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "주거비 과부담과 affordability를 주요 정책 이슈로 제시",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "8",
+      "bbox": [
+        72,
+        312,
+        540,
+        52
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "9",
+      "bbox": [
+        94,
+        322,
+        132,
+        32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F4EF",
+      "lineColor": "#E8F4EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "10",
+      "bbox": [
+        104,
+        329,
+        112,
+        18
+      ],
+      "geometry": "rect",
+      "text": "마이홈",
+      "textPreview": "마이홈",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Malgun Gothic",
+        "color": "#08493E",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "마이홈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "마이홈",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Malgun Gothic",
+            "color": "#08493E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "마이홈",
+              "fontSize": 11,
+              "typeface": "Malgun Gothic",
+              "color": "#08493E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulwval8",
+      "id": "11",
+      "bbox": [
+        248,
+        326,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공",
+      "textPreview": "공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공공주택 모집공고, 주거복지서비스,"
+          },
+          {
+            "index": 2,
+            "text": "자가진단, 지역별 검색 제공"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "12",
+      "bbox": [
+        72,
+        382,
+        540,
+        52
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "13",
+      "bbox": [
+        94,
+        392,
+        132,
+        32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F4EF",
+      "lineColor": "#E8F4EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "14",
+      "bbox": [
+        104,
+        399,
+        112,
+        18
+      ],
+      "geometry": "rect",
+      "text": "LH청약플러스",
+      "textPreview": "LH청약플러스",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Malgun Gothic",
+        "color": "#08493E",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LH청약플러스"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LH청약플러스",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Malgun Gothic",
+            "color": "#08493E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LH청약플러스",
+              "fontSize": 11,
+              "typeface": "Malgun Gothic",
+              "color": "#08493E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "15",
+      "bbox": [
+        248,
+        396,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공",
+      "textPreview": "공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공고문, 청약연습, 청약신청, 청약자격확인"
+          },
+          {
+            "index": 2,
+            "text": "등 단계별 기능 제공"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "16",
+      "bbox": [
+        72,
+        452,
+        540,
+        52
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "17",
+      "bbox": [
+        94,
+        462,
+        132,
+        32
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F4EF",
+      "lineColor": "#E8F4EF",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "18",
+      "bbox": [
+        104,
+        469,
+        112,
+        18
+      ],
+      "geometry": "rect",
+      "text": "온통청년·서울주거포털",
+      "textPreview": "온통청년·서울주거포털",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Malgun Gothic",
+        "color": "#08493E",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "온통청년·서울주거포"
+          },
+          {
+            "index": 2,
+            "text": "털"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "온통청년·서울주거포털",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Malgun Gothic",
+            "color": "#08493E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "온통청년·서울주거포털",
+              "fontSize": 11,
+              "typeface": "Malgun Gothic",
+              "color": "#08493E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "19",
+      "bbox": [
+        248,
+        466,
+        320,
+        22
+      ],
+      "geometry": "rect",
+      "text": "청년정책 검색, 상담, 지자체 주거지원이 별도 운영",
+      "textPreview": "청년정책 검색, 상담, 지자체 주거지원이 별도 운영",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "청년정책 검색, 상담, 지자체 주거지원이"
+          },
+          {
+            "index": 2,
+            "text": "별도 운영"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "청년정책 검색, 상담, 지자체 주거지원이 별도 운영",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "청년정책 검색, 상담, 지자체 주거지원이 별도 운영",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#111827",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lszqtc",
+      "id": "20",
+      "bbox": [
+        676,
+        238,
+        532,
+        300
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "21",
+      "bbox": [
+        708,
+        268,
+        220,
+        28
+      ],
+      "geometry": "rect",
+      "text": "보조 뉴스 근거",
+      "textPreview": "보조 뉴스 근거",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#A15D12",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "보조 뉴스 근거"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "보조 뉴스 근거",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#A15D12",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "보조 뉴스 근거",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#A15D12",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l87ed8ba",
+      "id": "22",
+      "bbox": [
+        708,
+        329,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#A15D12",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "23",
+      "bbox": [
+        730,
+        320,
+        418,
+        44
+      ],
+      "geometry": "rect",
+      "text": "매일경제: 청년 1분기 주거비 부담 증가 보도",
+      "textPreview": "매일경제: 청년 1분기 주거비 부담 증가 보도",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "매일경제: 청년 1분기 주거비 부담 증가 보도"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "매일경제: 청년 1분기 주거비 부담 증가 보도",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "매일경제: 청년 1분기 주거비 부담 증가 보도",
+              "fontSize": 17,
+              "typeface": "Malgun Gothic",
+              "color": "#111827"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "24",
+      "bbox": [
+        708,
+        373,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#A15D12",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at47y1kr",
+      "id": "25",
+      "bbox": [
+        730,
+        364,
+        418,
+        44
+      ],
+      "geometry": "rect",
+      "text": "브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도",
+      "textPreview": "브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요"
+          },
+          {
+            "index": 2,
+            "text": "보도"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도",
+              "fontSize": 17,
+              "typeface": "Malgun Gothic",
+              "color": "#111827"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjm1cfa",
+      "id": "26",
+      "bbox": [
+        708,
+        417,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#A15D12",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szqtcj6t",
+      "id": "27",
+      "bbox": [
+        730,
+        408,
+        418,
+        44
+      ],
+      "geometry": "rect",
+      "text": "뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도",
+      "textPreview": "뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도",
+              "fontSize": 17,
+              "typeface": "Malgun Gothic",
+              "color": "#111827"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "28",
+      "bbox": [
+        708,
+        461,
+        9,
+        9
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#A15D12",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "29",
+      "bbox": [
+        730,
+        452,
+        418,
+        44
+      ],
+      "geometry": "rect",
+      "text": "지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인",
+      "textPreview": "지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Malgun Gothic",
+        "color": "#111827",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지자체·상담소 기사: 정책 정보 제공과 상담형 안내"
+          },
+          {
+            "index": 2,
+            "text": "수요 확인"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Malgun Gothic",
+            "color": "#111827",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인",
+              "fontSize": 17,
+              "typeface": "Malgun Gothic",
+              "color": "#111827"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "30",
+      "bbox": [
+        72,
+        604,
+        1136,
+        42
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EAF5F1",
+      "lineColor": "#D5E0E5",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "31",
+      "bbox": [
+        96,
+        617,
+        90,
+        16
+      ],
+      "geometry": "rect",
+      "text": "발표 메모",
+      "textPreview": "발표 메모",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Malgun Gothic",
+        "color": "#0B6B57",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "발표 메모"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "발표 메모",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Malgun Gothic",
+            "color": "#0B6B57",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "발표 메모",
+              "fontSize": 11,
+              "typeface": "Malgun Gothic",
+              "color": "#0B6B57",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "32",
+      "bbox": [
+        188,
+        614,
+        960,
+        22
+      ],
+      "geometry": "rect",
+      "text": "공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.",
+      "textPreview": "공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#08493E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#08493E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#08493E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "33",
+      "bbox": [
+        72,
+        662,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Malgun Gothic",
+        "color": "#52616B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Malgun Gothic",
+            "color": "#52616B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 12,
+              "typeface": "Malgun Gothic",
+              "color": "#52616B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "34",
+      "bbox": [
+        128,
+        662,
+        1000,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.",
+      "textPreview": "Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Malgun Gothic",
+        "color": "#52616B",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Malgun Gothic",
+            "color": "#52616B",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.",
+              "fontSize": 10,
+              "typeface": "Malgun Gothic",
+              "color": "#52616B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

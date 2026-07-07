@@ -1,0 +1,266 @@
+{"kind":"deck","id":"pr/pc08d7","name":"Deck"}
+{"kind":"layout","layoutId":"9f1af432-ccee-4145-a5c8-ee22341054f0","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"6e2f76e5-305f-4cdf-a658-1095c5e8bc4f","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/chuo3w","slide":1,"title":"2026 국토교통 서비스 발굴 경연 | 1차 심사","textShapes":16}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":1,"text":"2026 국토교통 서비스 발굴 경연 | 1차 심사","textPreview":"2026 국토교통 서비스 발굴 경연 | 1차 심사","textChars":27,"textLines":1,"bbox":[72,56,600,28]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":1,"text":"주거복지\n내비게이터","textPreview":"주거복지 | 내비게이터","textChars":10,"textLines":2,"bbox":[72,112,520,132]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":1,"text":"흩어진 주거복지 기회를 사용자 조건별 우선순위와 원문 근거로 연결합니다.","textPreview":"흩어진 주거복지 기회를 사용자 조건별 우선순위와 원문 근거로 연결합니다.","textChars":40,"textLines":1,"bbox":[72,270,590,72]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":1,"bbox":[72,386,570,86]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":1,"text":"판정 시스템이 아니라 신청 전 사전 점검과 탐색을 돕는 의사결정 보조 서비스입니다.","textPreview":"판정 시스템이 아니라 신청 전 사전 점검과 탐색을 돕는 의사결정 보조 서비스입니다.","textChars":46,"textLines":1,"bbox":[100,414,514,30]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":1,"bbox":[742,132,420,102]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":1,"bbox":[764,158,50,50]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":1,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[764,168,50,24]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":1,"text":"조건 입력","textPreview":"조건 입력","textChars":5,"textLines":1,"bbox":[842,156,240,26]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":1,"text":"소득·자산·가구·무주택·지역·통근","textPreview":"소득·자산·가구·무주택·지역·통근","textChars":18,"textLines":1,"bbox":[842,190,290,28]}
+{"kind":"shape","id":"sh/oj2t83it","slide":1,"bbox":[742,272,420,102]}
+{"kind":"shape","id":"sh/vy90je9c","slide":1,"bbox":[764,298,50,50]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":1,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[764,308,50,24]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":1,"text":"공고 매칭","textPreview":"공고 매칭","textChars":5,"textLines":1,"bbox":[842,296,240,26]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":1,"text":"공개 공고와 제도를 같은 기준으로 비교","textPreview":"공개 공고와 제도를 같은 기준으로 비교","textChars":21,"textLines":1,"bbox":[842,330,290,28]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":1,"bbox":[742,412,420,102]}
+{"kind":"shape","id":"sh/61032lsz","slide":1,"bbox":[764,438,50,50]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":1,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[764,448,50,24]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":1,"text":"근거 설명","textPreview":"근거 설명","textChars":5,"textLines":1,"bbox":[842,436,240,26]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":1,"text":"점수·주의조건·원문 근거·RAG 답변","textPreview":"점수·주의조건·원문 근거·RAG 답변","textChars":20,"textLines":1,"bbox":[842,470,290,28]}
+{"kind":"shape","id":"sh/donyd0z6","slide":1,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":1,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/vixczed8","slide":1,"text":"대체가 아니라 보완, 판정이 아니라 사전 점검이라는 포지션을 먼저 고정합니다.","textPreview":"대체가 아니라 보완, 판정이 아니라 사전 점검이라는 포지션을 먼저 고정합니다.","textChars":43,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"notes","id":"nt/chuo3w","slide":1,"text":"안녕하세요. 저희는 주거복지 내비게이터를 제안합니다.\n이 서비스는 당첨을 예측하거나 자격을 확정하지 않고, 공식 공고를 사용자 조건에 맞게 구조화해 신청 전 우선순위를 안내합니다."}
+{"kind":"slide","id":"sl/963672","slide":2,"title":"문제정의","textShapes":23}
+{"kind":"textbox","id":"sh/j2t83itg","slide":2,"text":"문제정의","textPreview":"문제정의","textChars":4,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":2,"text":"정보가 없는 것이 아니라, 내 조건으로 해석하기 어렵습니다","textPreview":"정보가 없는 것이 아니라, 내 조건으로 해석하기 어렵습니다","textChars":32,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":2,"text":"공식 포털과 공고는 존재하지만 사용자는 여러 사이트와 공고문을 오가며 조건을 직접 비교해야 합니다.","textPreview":"공식 포털과 공고는 존재하지만 사용자는 여러 사이트와 공고문을 오가며 조건을 직접 비교해야 합니다.","textChars":55,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":2,"bbox":[72,238,510,300]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":2,"text":"사용자가 직접 대입해야 하는 조건","textPreview":"사용자가 직접 대입해야 하는 조건","textChars":18,"textLines":1,"bbox":[104,268,360,30]}
+{"kind":"shape","id":"sh/8bat47y1","slide":2,"bbox":[104,326,84,32]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":2,"text":"소득","textPreview":"소득","textChars":2,"textLines":1,"bbox":[114,333,64,18]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":2,"bbox":[202,326,84,32]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":2,"text":"자산","textPreview":"자산","textChars":2,"textLines":1,"bbox":[212,333,64,18]}
+{"kind":"shape","id":"sh/vu9knih4","slide":2,"bbox":[300,326,98,32]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":2,"text":"무주택","textPreview":"무주택","textChars":3,"textLines":1,"bbox":[310,333,78,18]}
+{"kind":"shape","id":"sh/d0z61032","slide":2,"bbox":[412,326,112,32]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":2,"text":"가구 구성","textPreview":"가구 구성","textChars":5,"textLines":1,"bbox":[422,333,92,18]}
+{"kind":"shape","id":"sh/v6psfil0","slide":2,"bbox":[104,374,112,32]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":2,"text":"희망 지역","textPreview":"희망 지역","textChars":5,"textLines":1,"bbox":[114,381,92,18]}
+{"kind":"shape","id":"sh/d8bat47y","slide":2,"bbox":[230,374,112,32]}
+{"kind":"textbox","id":"sh/knih4byh","slide":2,"text":"청약통장","textPreview":"청약통장","textChars":4,"textLines":1,"bbox":[240,381,92,18]}
+{"kind":"shape","id":"sh/val87ed8","slide":2,"bbox":[356,374,112,32]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":2,"text":"모집기간","textPreview":"모집기간","textChars":4,"textLines":1,"bbox":[366,381,92,18]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":2,"bbox":[104,422,112,32]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":2,"text":"제출서류","textPreview":"제출서류","textChars":4,"textLines":1,"bbox":[114,429,92,18]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":2,"bbox":[230,422,112,32]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":2,"text":"입지·통근","textPreview":"입지·통근","textChars":5,"textLines":1,"bbox":[240,429,92,18]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":2,"bbox":[356,422,112,32]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":2,"text":"우선순위","textPreview":"우선순위","textChars":4,"textLines":1,"bbox":[366,429,92,18]}
+{"kind":"textbox","id":"sh/svu9knih","slide":2,"text":"결국 핵심 질문은\n“내가 지금 무엇을 먼저 신청해야 하나?”입니다.","textPreview":"결국 핵심 질문은 | “내가 지금 무엇을 먼저 신청해야 하나?”입니다.","textChars":37,"textLines":2,"bbox":[104,488,390,48]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":2,"bbox":[640,238,568,300]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":2,"text":"현재 여정에서 막히는 지점","textPreview":"현재 여정에서 막히는 지점","textChars":14,"textLines":1,"bbox":[672,268,330,30]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":2,"bbox":[672,335,9,9]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"text":"공고 검색, 자가진단, 신청, 지도 확인이 기능별로 분리","textPreview":"공고 검색, 자가진단, 신청, 지도 확인이 기능별로 분리","textChars":31,"textLines":1,"bbox":[694,326,448,46]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":2,"bbox":[672,381,9,9]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":2,"text":"소득·자산·무주택 기준이 공고문 문장과 표 안에 흩어짐","textPreview":"소득·자산·무주택 기준이 공고문 문장과 표 안에 흩어짐","textChars":30,"textLines":1,"bbox":[694,372,448,46]}
+{"kind":"shape","id":"sh/yxobm58z","slide":2,"bbox":[672,427,9,9]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":2,"text":"기준 확인 항목과 주의 조건을 사용자가 직접 판별","textPreview":"기준 확인 항목과 주의 조건을 사용자가 직접 판별","textChars":27,"textLines":1,"bbox":[694,418,448,46]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":2,"bbox":[672,473,9,9]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":2,"text":"기회 누락 또는 조건 불일치 공고 탐색 비용 발생","textPreview":"기회 누락 또는 조건 불일치 공고 탐색 비용 발생","textChars":27,"textLines":1,"bbox":[694,464,448,46]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":2,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":2,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":2,"text":"문제는 정보 부족이 아니라 조건 해석 비용과 공고별 우선순위 판단입니다.","textPreview":"문제는 정보 부족이 아니라 조건 해석 비용과 공고별 우선순위 판단입니다.","textChars":40,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"notes","id":"nt/963672","slide":2,"text":"현재 문제는 정보가 없다는 것이 아닙니다.\n마이홈, LH청약플러스, 지자체 포털에는 정보가 많지만 사용자는 본인 조건을 공고문에 직접 대입해야 합니다."}
+{"kind":"slide","id":"sl/h80gzs","slide":3,"title":"근거자료","textShapes":20}
+{"kind":"textbox","id":"sh/0fepkzup","slide":3,"text":"근거자료","textPreview":"근거자료","textChars":4,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/bulwval8","slide":3,"text":"주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다","textPreview":"주거비 부담과 정보 탐색 복잡성은 현재 진행형입니다","textChars":28,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":3,"text":"공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.","textPreview":"공식자료를 주 근거로 두고, 2026년 뉴스 검색 결과는 최근성 보조 근거로 활용합니다.","textChars":49,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/tovahoza","slide":3,"bbox":[72,242,540,52]}
+{"kind":"shape","id":"sh/032lszqt","slide":3,"bbox":[94,252,132,32]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":3,"text":"OECD","textPreview":"OECD","textChars":4,"textLines":1,"bbox":[104,259,112,18]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":3,"text":"주거비 과부담과 affordability를 주요 정책 이슈로 제시","textPreview":"주거비 과부담과 affordability를 주요 정책 이슈로 제시","textChars":36,"textLines":1,"bbox":[248,256,320,22]}
+{"kind":"shape","id":"sh/tcj6tova","slide":3,"bbox":[72,312,540,52]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":3,"bbox":[94,322,132,32]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":3,"text":"마이홈","textPreview":"마이홈","textChars":3,"textLines":1,"bbox":[104,329,112,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":3,"text":"공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공","textPreview":"공공주택 모집공고, 주거복지서비스, 자가진단, 지역별 검색 제공","textChars":35,"textLines":1,"bbox":[248,326,320,22]}
+{"kind":"shape","id":"sh/0fepkzup","slide":3,"bbox":[72,382,540,52]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":3,"bbox":[94,392,132,32]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":3,"text":"LH청약플러스","textPreview":"LH청약플러스","textChars":7,"textLines":1,"bbox":[104,399,112,18]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":3,"text":"공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공","textPreview":"공고문, 청약연습, 청약신청, 청약자격확인 등 단계별 기능 제공","textChars":35,"textLines":1,"bbox":[248,396,320,22]}
+{"kind":"shape","id":"sh/032lszqt","slide":3,"bbox":[72,452,540,52]}
+{"kind":"shape","id":"sh/tovahoza","slide":3,"bbox":[94,462,132,32]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":3,"text":"온통청년·서울주거포털","textPreview":"온통청년·서울주거포털","textChars":11,"textLines":1,"bbox":[104,469,112,18]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":3,"text":"청년정책 검색, 상담, 지자체 주거지원이 별도 운영","textPreview":"청년정책 검색, 상담, 지자체 주거지원이 별도 운영","textChars":28,"textLines":1,"bbox":[248,466,320,22]}
+{"kind":"shape","id":"sh/32lszqtc","slide":3,"bbox":[676,238,532,300]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":3,"text":"보조 뉴스 근거","textPreview":"보조 뉴스 근거","textChars":8,"textLines":1,"bbox":[708,268,220,28]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":3,"bbox":[708,329,9,9]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":3,"text":"매일경제: 청년 1분기 주거비 부담 증가 보도","textPreview":"매일경제: 청년 1분기 주거비 부담 증가 보도","textChars":25,"textLines":1,"bbox":[730,320,418,44]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":3,"bbox":[708,373,9,9]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":3,"text":"브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도","textPreview":"브릿지경제·더팩트: 원스톱 청년주거 지원체계 필요 보도","textChars":30,"textLines":1,"bbox":[730,364,418,44]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":3,"bbox":[708,417,9,9]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":3,"text":"뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도","textPreview":"뉴스핌: 높은 집값으로 독립이 어려운 청년 이슈 보도","textChars":29,"textLines":1,"bbox":[730,408,418,44]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":3,"bbox":[708,461,9,9]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":3,"text":"지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인","textPreview":"지자체·상담소 기사: 정책 정보 제공과 상담형 안내 수요 확인","textChars":34,"textLines":1,"bbox":[730,452,418,44]}
+{"kind":"shape","id":"sh/ovahoza1","slide":3,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":3,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"text":"공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.","textPreview":"공식 인프라는 존재합니다. 그래서 우리는 대체가 아니라 연결·해석 레이어를 제안합니다.","textChars":48,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":"Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.","textPreview":"Sources: OECD Affordable Housing, OECD Housing Prices, MyHome, LH Apply Plus, OnTong Youth, Seoul Housing Portal, Google News RSS search.","textChars":137,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"notes","id":"nt/h80gzs","slide":3,"text":"주거비 부담은 OECD 자료와 국내 기사에서 계속 다뤄지는 문제입니다.\n동시에 마이홈과 LH청약플러스 같은 공식 인프라가 이미 있으므로, 저희는 이를 대체하지 않고 사용자 조건별 해석 레이어를 제안합니다."}
+{"kind":"slide","id":"sl/3a2ho5","slide":4,"title":"사용자 여정","textShapes":23}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":4,"text":"사용자 여정","textPreview":"사용자 여정","textChars":6,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":4,"text":"여러 사이트 탐색을 한 번의 사전 점검 흐름으로 바꿉니다","textPreview":"여러 사이트 탐색을 한 번의 사전 점검 흐름으로 바꿉니다","textChars":31,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":4,"text":"청년 1인가구가 공개 공고를 검토하는 상황을 기준으로 발표 데모를 구성했습니다.","textPreview":"청년 1인가구가 공개 공고를 검토하는 상황을 기준으로 발표 데모를 구성했습니다.","textChars":44,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":4,"bbox":[72,260,180,148]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":4,"bbox":[138,282,48,48]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[138,292,48,24]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":4,"text":"공고 검색","textPreview":"공고 검색","textChars":5,"textLines":1,"bbox":[90,350,144,24]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":4,"text":"마이홈·LH·지자체 포털 확인","textPreview":"마이홈·LH·지자체 포털 확인","textChars":16,"textLines":1,"bbox":[90,384,144,38]}
+{"kind":"shape","id":"sh/g7adsji5","slide":4,"bbox":[258,310,34,38]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":4,"bbox":[302,260,180,148]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":4,"bbox":[368,282,48,48]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[368,292,48,24]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":4,"text":"공고문 해석","textPreview":"공고문 해석","textChars":6,"textLines":1,"bbox":[320,350,144,24]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":4,"text":"PDF/HWP/HTML의 조건표 확인","textPreview":"PDF/HWP/HTML의 조건표 확인","textChars":20,"textLines":1,"bbox":[320,384,144,38]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":4,"bbox":[488,310,34,38]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":4,"bbox":[532,260,180,148]}
+{"kind":"shape","id":"sh/90je9cvi","slide":4,"bbox":[598,282,48,48]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[598,292,48,24]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":4,"text":"내 조건 비교","textPreview":"내 조건 비교","textChars":7,"textLines":1,"bbox":[550,350,144,24]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":4,"text":"소득·자산·무주택·서류 직접 대입","textPreview":"소득·자산·무주택·서류 직접 대입","textChars":18,"textLines":1,"bbox":[550,384,144,38]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":4,"bbox":[718,310,34,38]}
+{"kind":"shape","id":"sh/xczed8v6","slide":4,"bbox":[762,260,180,148]}
+{"kind":"shape","id":"sh/8v6psfil","slide":4,"bbox":[828,282,48,48]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[828,292,48,24]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":4,"text":"입지 확인","textPreview":"입지 확인","textChars":5,"textLines":1,"bbox":[780,350,144,24]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":4,"text":"통근·생활SOC·주변 시세 별도 탐색","textPreview":"통근·생활SOC·주변 시세 별도 탐색","textChars":20,"textLines":1,"bbox":[780,384,144,38]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":4,"bbox":[948,310,34,38]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":4,"bbox":[992,260,180,148]}
+{"kind":"shape","id":"sh/q1orytsv","slide":4,"bbox":[1058,282,48,48]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":4,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1058,292,48,24]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":4,"text":"신청 준비","textPreview":"신청 준비","textChars":5,"textLines":1,"bbox":[1010,350,144,24]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":4,"text":"원문 링크와 제출서류 최종 확인","textPreview":"원문 링크와 제출서류 최종 확인","textChars":17,"textLines":1,"bbox":[1010,384,144,38]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":4,"bbox":[180,470,920,78]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":4,"text":"발표 데모의 목표","textPreview":"발표 데모의 목표","textChars":9,"textLines":1,"bbox":[210,490,150,22]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"text":"조건 입력 → 추천 공고 → 점수 상세 → 지도 입지 → 공고문 근거/RAG → 정책 대시보드","textPreview":"조건 입력 → 추천 공고 → 점수 상세 → 지도 입지 → 공고문 근거/RAG → 정책 대시보드","textChars":52,"textLines":1,"bbox":[210,516,850,26]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":4,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":4,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"text":"데모는 사용자가 실제로 막히는 순서 그대로 보여줍니다.","textPreview":"데모는 사용자가 실제로 막히는 순서 그대로 보여줍니다.","textChars":30,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/9knih4by","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"notes","id":"nt/3a2ho5","slide":4,"text":"청년 1인가구가 공고를 찾는 상황을 기준으로 데모합니다.\n기존에는 여러 단계를 사용자가 직접 오가야 하지만, 저희 화면에서는 사전 점검 흐름으로 묶습니다."}
+{"kind":"slide","id":"sl/o2enn9","slide":5,"title":"해결 구조","textShapes":17}
+{"kind":"textbox","id":"sh/7u54zido","slide":5,"text":"해결 구조","textPreview":"해결 구조","textChars":5,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"text":"AI는 공고문을 구조화하고, 추천은 공개 기준과 규칙으로 설명합니다","textPreview":"AI는 공고문을 구조화하고, 추천은 공개 기준과 규칙으로 설명합니다","textChars":37,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":5,"text":"환각과 책임 문제를 줄이기 위해 자유 판정보다 원문 근거, 구조화 데이터, 규칙 기반 점수화를 앞세웁니다.","textPreview":"환각과 책임 문제를 줄이기 위해 자유 판정보다 원문 근거, 구조화 데이터, 규칙 기반 점수화를 앞세웁니다.","textChars":59,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/eloj2t83","slide":5,"bbox":[72,232,640,330]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":5,"bbox":[748,232,460,330]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":5,"text":"8인 팀 병렬 구조","textPreview":"8인 팀 병렬 구조","textChars":10,"textLines":1,"bbox":[780,262,240,28]}
+{"kind":"shape","id":"sh/epkzupwb","slide":5,"bbox":[780,318,180,32]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":5,"text":"데이터 수집","textPreview":"데이터 수집","textChars":6,"textLines":1,"bbox":[790,325,160,18]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":5,"bbox":[982,318,180,32]}
+{"kind":"textbox","id":"sh/u54zidon","slide":5,"text":"데이터 엔지니어링","textPreview":"데이터 엔지니어링","textChars":9,"textLines":1,"bbox":[992,325,160,18]}
+{"kind":"shape","id":"sh/5sneloj2","slide":5,"bbox":[780,368,180,32]}
+{"kind":"textbox","id":"sh/cbulwval","slide":5,"text":"AI 공고문 추출","textPreview":"AI 공고문 추출","textChars":9,"textLines":1,"bbox":[790,375,160,18]}
+{"kind":"shape","id":"sh/neloj2t8","slide":5,"bbox":[982,368,180,32]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":5,"text":"백엔드·점수화 엔진","textPreview":"백엔드·점수화 엔진","textChars":10,"textLines":1,"bbox":[992,375,160,18]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":5,"bbox":[780,418,180,32]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":5,"text":"데이터 분석","textPreview":"데이터 분석","textChars":6,"textLines":1,"bbox":[790,425,160,18]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":5,"bbox":[982,418,180,32]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":5,"text":"지도·시각화","textPreview":"지도·시각화","textChars":6,"textLines":1,"bbox":[992,425,160,18]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":5,"bbox":[780,468,180,32]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":5,"text":"프론트엔드","textPreview":"프론트엔드","textChars":5,"textLines":1,"bbox":[790,475,160,18]}
+{"kind":"shape","id":"sh/onyd0z61","slide":5,"bbox":[982,468,180,32]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":5,"text":"기획·발표","textPreview":"기획·발표","textChars":5,"textLines":1,"bbox":[992,475,160,18]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":5,"text":"MVP는 공고 수집·조건 입력·기본 매칭부터 완성하고, 점수 설명·지도·RAG·정책 대시보드를 단계적으로 확장합니다.","textPreview":"MVP는 공고 수집·조건 입력·기본 매칭부터 완성하고, 점수 설명·지도·RAG·정책 대시보드를 단계적으로 확장합니다.","textChars":65,"textLines":1,"bbox":[780,532,360,42]}
+{"kind":"shape","id":"sh/vahoza1g","slide":5,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":5,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":5,"text":"기능을 한 번에 과장하지 않고 MVP와 확장 기능을 분리해 실현 가능성을 방어합니다.","textPreview":"기능을 한 번에 과장하지 않고 MVP와 확장 기능을 분리해 실현 가능성을 방어합니다.","textChars":47,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/61032lsz","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":5,"text":"Application source: participant application workflow image.","textPreview":"Application source: participant application workflow image.","textChars":59,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"image","id":"im/a1gvy90j","slide":5,"name":"","alt":"주거복지 내비게이터 워크플로우","bbox":[94,254,596,286]}
+{"kind":"notes","id":"nt/o2enn9","slide":5,"text":"AI는 공고문을 읽기 쉬운 구조로 바꾸는 역할입니다.\n추천과 점수는 공개 기준과 규칙 기반으로 설명 가능하게 만들고, 팀은 8개 역할로 병렬 운영합니다."}
+{"kind":"slide","id":"sl/puj3q9","slide":6,"title":"프로토타입 1","textShapes":12}
+{"kind":"textbox","id":"sh/4nap4r65","slide":6,"text":"프로토타입 1","textPreview":"프로토타입 1","textChars":7,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"text":"조건 입력과 종합 매칭 결과를 첫 화면에서 함께 보여줍니다","textPreview":"조건 입력과 종합 매칭 결과를 첫 화면에서 함께 보여줍니다","textChars":32,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":6,"text":"첫 화면에서 서비스의 본질인 조건 기반 공고 매칭과 주의 조건이 바로 보이도록 구성했습니다.","textPreview":"첫 화면에서 서비스의 본질인 조건 기반 공고 매칭과 주의 조건이 바로 보이도록 구성했습니다.","textChars":51,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/twra5gbq","slide":6,"bbox":[72,232,734,334]}
+{"kind":"shape","id":"sh/bq1oryts","slide":6,"bbox":[842,232,366,334]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":6,"text":"심사자가 봐야 할 포인트","textPreview":"심사자가 봐야 할 포인트","textChars":13,"textLines":1,"bbox":[872,264,260,28]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":6,"bbox":[872,333,9,9]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":6,"text":"신청서의 입력 조건이 실제 폼으로 구현","textPreview":"신청서의 입력 조건이 실제 폼으로 구현","textChars":21,"textLines":1,"bbox":[894,324,258,48]}
+{"kind":"shape","id":"sh/adsji5sn","slide":6,"bbox":[872,381,9,9]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"공개 공고와 제도를 같은 기준으로 비교","textPreview":"공개 공고와 제도를 같은 기준으로 비교","textChars":21,"textLines":1,"bbox":[894,372,258,48]}
+{"kind":"shape","id":"sh/sji5snel","slide":6,"bbox":[872,429,9,9]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":6,"text":"기준 확인 항목과 주의 조건을 분리","textPreview":"기준 확인 항목과 주의 조건을 분리","textChars":19,"textLines":1,"bbox":[894,420,258,48]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":6,"bbox":[872,477,9,9]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":6,"text":"당첨 확률이 아닌 적합도 점수로 표현","textPreview":"당첨 확률이 아닌 적합도 점수로 표현","textChars":20,"textLines":1,"bbox":[894,468,258,48]}
+{"kind":"shape","id":"sh/s72x4nap","slide":6,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":6,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":6,"text":"총점보다 중요한 것은 왜 이 공고가 먼저 보이는지 설명하는 구조입니다.","textPreview":"총점보다 중요한 것은 왜 이 공고가 먼저 보이는지 설명하는 구조입니다.","textChars":39,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/val87ed8","slide":6,"text":"Local prototype screenshot: outputs/prototype_ppt_dashboard_crop.png","textPreview":"Local prototype screenshot: outputs/prototype_ppt_dashboard_crop.png","textChars":68,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"image","id":"im/hk3q5o7q","slide":6,"name":"","alt":"프로토타입 대시보드 화면","bbox":[92,252,694,294]}
+{"kind":"notes","id":"nt/puj3q9","slide":6,"text":"첫 화면은 조건 입력과 추천 결과가 함께 보입니다.\n공고 카드에는 출처, 예시 모집기간, 기준 확인 항목, 주의 조건, 원문/신청 링크 버튼이 함께 표시되어 사용자가 다음 행동을 정할 수 있습니다."}
+{"kind":"slide","id":"sl/sn8omo","slide":7,"title":"프로토타입 2","textShapes":12}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":7,"text":"프로토타입 2","textPreview":"프로토타입 2","textChars":7,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":7,"text":"가능/불가능 단정 대신 공고별 기준 점수를 분해합니다","textPreview":"가능/불가능 단정 대신 공고별 기준 점수를 분해합니다","textChars":29,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":7,"text":"자격, 공고, 입지, 부담 완화, 신청 부담, 준비 용이성을 나눠 보여줘서 점수화의 설명 가능성을 높입니다.","textPreview":"자격, 공고, 입지, 부담 완화, 신청 부담, 준비 용이성을 나눠 보여줘서 점수화의 설명 가능성을 높입니다.","textChars":60,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/j2t83itg","slide":7,"bbox":[72,232,760,334]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":7,"bbox":[866,232,342,334]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":7,"text":"방어 포인트","textPreview":"방어 포인트","textChars":6,"textLines":1,"bbox":[894,264,220,28]}
+{"kind":"shape","id":"sh/j6tovaho","slide":7,"bbox":[894,333,9,9]}
+{"kind":"textbox","id":"sh/ulwval87","slide":7,"text":"점수는 당첨 확률이 아니라 기준 부합도","textPreview":"점수는 당첨 확률이 아니라 기준 부합도","textChars":21,"textLines":1,"bbox":[916,324,238,48]}
+{"kind":"shape","id":"sh/4vmtwra5","slide":7,"bbox":[894,381,9,9]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":7,"text":"공고문 기준과 사용자 조건을 항목별 비교","textPreview":"공고문 기준과 사용자 조건을 항목별 비교","textChars":22,"textLines":1,"bbox":[916,372,238,48]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":7,"bbox":[894,429,9,9]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":7,"text":"감점·주의 사유를 숨기지 않음","textPreview":"감점·주의 사유를 숨기지 않음","textChars":16,"textLines":1,"bbox":[916,420,238,48]}
+{"kind":"shape","id":"sh/47y1kre1","slide":7,"bbox":[894,477,9,9]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":7,"text":"최종 신청은 원문 공고와 기관 심사 기준 확인","textPreview":"최종 신청은 원문 공고와 기관 심사 기준 확인","textChars":25,"textLines":1,"bbox":[916,468,238,48]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":7,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":7,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":7,"text":"심사자가 점수 임의성을 묻기 전에 기준별 분해 화면으로 먼저 방어합니다.","textPreview":"심사자가 점수 임의성을 묻기 전에 기준별 분해 화면으로 먼저 방어합니다.","textChars":40,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":7,"text":"Local prototype screenshot: outputs/prototype_ppt_detail_crop.png","textPreview":"Local prototype screenshot: outputs/prototype_ppt_detail_crop.png","textChars":65,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"image","id":"im/bq1oryts","slide":7,"name":"","alt":"공고별 기준 점수 상세 화면","bbox":[92,252,720,294]}
+{"kind":"notes","id":"nt/sn8omo","slide":7,"text":"점수 상세 화면은 심사에서 중요한 방어 장치입니다.\n총점 하나가 아니라 기준별 점수와 감점 사유를 보여줘, 이 서비스가 판정 시스템이 아니라 사전 점검 도구임을 분명히 합니다."}
+{"kind":"slide","id":"sl/0aq72a","slide":8,"title":"프로토타입 3","textShapes":13}
+{"kind":"textbox","id":"sh/83itgfml","slide":8,"text":"프로토타입 3","textPreview":"프로토타입 3","textChars":7,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":8,"text":"지도, 원문 근거, RAG, 정책 대시보드까지 연결합니다","textPreview":"지도, 원문 근거, RAG, 정책 대시보드까지 연결합니다","textChars":31,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":8,"text":"개인 신청 보조에서 끝나지 않고, 익명·집계 지표로 정책 사각지대 탐색까지 확장합니다.","textPreview":"개인 신청 보조에서 끝나지 않고, 익명·집계 지표로 정책 사각지대 탐색까지 확장합니다.","textChars":48,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":8,"bbox":[72,238,344,278]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":8,"text":"지도 입지 분석","textPreview":"지도 입지 분석","textChars":8,"textLines":1,"bbox":[92,462,260,24]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":8,"text":"통근·생활SOC·주변 시세를 함께 비교","textPreview":"통근·생활SOC·주변 시세를 함께 비교","textChars":21,"textLines":1,"bbox":[92,492,288,36]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":8,"bbox":[464,238,344,278]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":8,"text":"공고문 근거 + RAG","textPreview":"공고문 근거 + RAG","textChars":12,"textLines":1,"bbox":[484,462,260,24]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":8,"text":"출처 기반 답변으로 AI 환각 위험 통제","textPreview":"출처 기반 답변으로 AI 환각 위험 통제","textChars":22,"textLines":1,"bbox":[484,492,288,36]}
+{"kind":"shape","id":"sh/svu9knih","slide":8,"bbox":[856,238,344,278]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":8,"text":"정책 대시보드","textPreview":"정책 대시보드","textChars":7,"textLines":1,"bbox":[876,462,260,24]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":8,"text":"수요는 높지만 공급·신청 연결이 약한 영역 탐색","textPreview":"수요는 높지만 공급·신청 연결이 약한 영역 탐색","textChars":26,"textLines":1,"bbox":[876,492,288,36]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":8,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":8,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":8,"text":"개인에게는 신청 전 우선순위, 공공에는 미매칭 패턴 탐색이라는 두 효과를 보여줍니다.","textPreview":"개인에게는 신청 전 우선순위, 공공에는 미매칭 패턴 탐색이라는 두 효과를 보여줍니다.","textChars":47,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/vixczed8","slide":8,"text":"Local prototype screenshots: map, evidence, policy views.","textPreview":"Local prototype screenshots: map, evidence, policy views.","textChars":57,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"image","id":"im/d8bat47y","slide":8,"name":"","alt":"지도 입지 분석","bbox":[88,258,312,188]}
+{"kind":"image","id":"im/dcbulwva","slide":8,"name":"","alt":"공고문 근거 + RAG","bbox":[480,258,312,188]}
+{"kind":"image","id":"im/a5gbq1or","slide":8,"name":"","alt":"정책 대시보드","bbox":[872,258,312,188]}
+{"kind":"notes","id":"nt/0aq72a","slide":8,"text":"지도 탭은 생활 가능성을 보여주고, 근거/RAG 탭은 공고문 원문 기반 설명을 제공합니다.\n정책 대시보드는 익명 집계로 사각지대 의심 지표를 보여주는 확장 방향입니다."}
+{"kind":"slide","id":"sl/oveulk","slide":9,"title":"기대효과와 마무리","textShapes":14}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":9,"text":"기대효과와 마무리","textPreview":"기대효과와 마무리","textChars":9,"textLines":1,"bbox":[72,44,860,26]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":9,"text":"주거 문제 해결을 과장하지 않고, 검증 가능한 효과로 말합니다","textPreview":"주거 문제 해결을 과장하지 않고, 검증 가능한 효과로 말합니다","textChars":34,"textLines":1,"bbox":[72,78,1080,78]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":9,"text":"탐색 시간 감소, 조건 확인 누락 감소, 상담 전 자가점검 강화, 정책 미매칭 패턴 파악을 목표로 합니다.","textPreview":"탐색 시간 감소, 조건 확인 누락 감소, 상담 전 자가점검 강화, 정책 미매칭 패턴 파악을 목표로 합니다.","textChars":59,"textLines":1,"bbox":[72,160,1040,44]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":9,"bbox":[72,250,344,206]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":9,"text":"국민","textPreview":"국민","textChars":2,"textLines":1,"bbox":[100,282,220,30]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":9,"text":"공고 탐색 시간 감소\n신청 가능한 공고 누락 감소\n서류·조건 사전 점검","textPreview":"공고 탐색 시간 감소 | 신청 가능한 공고 누락 감소 | 서류·조건 사전 점검","textChars":39,"textLines":3,"bbox":[100,334,280,82]}
+{"kind":"shape","id":"sh/i5sneloj","slide":9,"bbox":[464,250,344,206]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":9,"text":"공공기관","textPreview":"공공기관","textChars":4,"textLines":1,"bbox":[492,282,220,30]}
+{"kind":"textbox","id":"sh/0z61032l","slide":9,"text":"공개 공고 데이터 활용도 증가\n반복 민원·중복 탐색 부담 완화\n원문 근거 기반 안내","textPreview":"공개 공고 데이터 활용도 증가 | 반복 민원·중복 탐색 부담 완화 | 원문 근거 기반 안내","textChars":46,"textLines":3,"bbox":[492,334,280,82]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":9,"bbox":[856,250,344,206]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":9,"text":"지자체","textPreview":"지자체","textChars":3,"textLines":1,"bbox":[884,282,220,30]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":9,"text":"지역·계층별 미매칭 패턴 파악\n공급 부족·정보 이탈 의심 영역 탐색\n정책 개선 지표 확보","textPreview":"지역·계층별 미매칭 패턴 파악 | 공급 부족·정보 이탈 의심 영역 탐색 | 정책 개선 지표 확보","textChars":49,"textLines":3,"bbox":[884,334,280,82]}
+{"kind":"shape","id":"sh/xczed8v6","slide":9,"bbox":[172,492,936,66]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":9,"text":"흩어진 주거복지 기회를 사용자 조건별 우선순위와 원문 근거로 연결하겠습니다.","textPreview":"흩어진 주거복지 기회를 사용자 조건별 우선순위와 원문 근거로 연결하겠습니다.","textChars":42,"textLines":1,"bbox":[210,514,860,26]}
+{"kind":"shape","id":"sh/fyxobm58","slide":9,"bbox":[72,604,1136,42]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":9,"text":"발표 메모","textPreview":"발표 메모","textChars":5,"textLines":1,"bbox":[96,617,90,16]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":9,"text":"마지막 문장은 외우기: 흩어진 기회를 조건별 우선순위와 원문 근거로 연결합니다.","textPreview":"마지막 문장은 외우기: 흩어진 기회를 조건별 우선순위와 원문 근거로 연결합니다.","textChars":44,"textLines":1,"bbox":[188,614,960,22]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[72,662,44,22]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":9,"text":"Submission schedule: 2026.07.13 materials, 2026.07.15 first review.","textPreview":"Submission schedule: 2026.07.13 materials, 2026.07.15 first review.","textChars":67,"textLines":1,"bbox":[128,662,1000,24]}
+{"kind":"notes","id":"nt/oveulk","slide":9,"text":"기대효과는 주거 문제를 해결한다는 식으로 과장하지 않습니다.\n탐색 시간과 조건 확인 누락을 줄이고, 공공기관에는 미매칭 패턴을 보여주는 것이 목표입니다."}

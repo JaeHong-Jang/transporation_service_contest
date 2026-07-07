@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>주거복지 내비게이터 발표용 프로토타입</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="app-header">
+        <div>
+          <p class="eyebrow">2026 국토교통 서비스 발굴 경연 · 발표용 프로토타입</p>
+          <h1>주거복지 내비게이터</h1>
+          <p class="lead">
+            소득·자산·가구·무주택·희망지역·직장/학교 위치를 입력하면 공고와
+            주거지원 제도를 통합 비교하고, 점수와 원문 근거로 검토 우선순위를 설명합니다.
+          </p>
+        </div>
+        <div class="header-flags" aria-label="프로토타입 상태">
+          <span>모의 데이터</span>
+          <span>적합도 참고용</span>
+          <span>공식 포털 보완 레이어</span>
+        </div>
+      </header>
+
+      <section class="demo-layout" aria-label="조건 입력과 종합 매칭 결과">
+        <form class="condition-panel" id="conditionForm">
+          <div class="panel-title">
+            <span class="step">1</span>
+            <div>
+              <h2>사용자 조건 입력</h2>
+              <p>신청서에 적힌 필수 조건을 한 번에 입력합니다.</p>
+            </div>
+          </div>
+
+          <label>
+            대상 유형
+            <select id="persona">
+              <option value="youth">청년 1인가구</option>
+              <option value="newlywed">신혼부부</option>
+              <option value="senior">고령자</option>
+              <option value="vulnerable">주거취약계층</option>
+              <option value="general">일반 무주택자</option>
+            </select>
+          </label>
+
+          <div class="field-grid">
+            <label>
+              월 소득
+              <input id="income" type="number" value="280" min="0" />
+              <span class="unit">만원</span>
+            </label>
+            <label>
+              총 자산
+              <input id="asset" type="number" value="21500" min="0" />
+              <span class="unit">만원</span>
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              가구 구성
+              <select id="household">
+                <option value="single">1인 가구</option>
+                <option value="couple">2인 가구</option>
+                <option value="child">자녀 포함</option>
+                <option value="parent">부양가족 있음</option>
+              </select>
+            </label>
+            <label>
+              희망 지역
+              <select id="region">
+                <option value="daejeon">대전 유성구</option>
+                <option value="seoul">서울 관악구</option>
+                <option value="busan">부산 해운대구</option>
+                <option value="gwangju">광주 북구</option>
+              </select>
+            </label>
+          </div>
+
+          <label>
+            직장/학교 위치
+            <select id="commute">
+              <option value="near">희망지역 내 30분 이내</option>
+              <option value="mid">대중교통 45분 내외</option>
+              <option value="far">대중교통 60분 이상</option>
+            </select>
+          </label>
+
+          <div class="field-grid">
+            <label>
+              현재 월 주거비
+              <input id="rent" type="number" value="62" min="0" />
+              <span class="unit">만원</span>
+            </label>
+            <label>
+              청약통장
+              <select id="account">
+                <option value="ready">6개월 이상 납입</option>
+                <option value="short">6개월 미만</option>
+                <option value="none">없음</option>
+              </select>
+            </label>
+          </div>
+
+          <fieldset>
+            <legend>필수 확인</legend>
+            <label class="check-row">
+              <input id="homeless" type="checkbox" checked />
+              무주택 세대 구성원입니다.
+            </label>
+            <label class="check-row">
+              <input id="documents" type="checkbox" />
+              주민등록등본·소득증빙 등 기본 서류를 준비했습니다.
+            </label>
+          </fieldset>
+
+          <button type="submit">조건으로 다시 매칭</button>
+          <p class="fine-print">
+            실제 신청 가능 여부는 공고문과 공식 접수처 확인이 필요합니다.
+          </p>
+        </form>
+
+        <section class="result-panel">
+          <div class="panel-title">
+            <span class="step">2</span>
+            <div>
+              <h2>종합 매칭 점수 결과</h2>
+              <p id="summaryText">현재 조건으로 발표용 예시 공고·제도를 비교했습니다.</p>
+            </div>
+          </div>
+
+          <div class="summary-grid">
+            <div class="score-dial" aria-label="종합 매칭 점수">
+              <strong id="mainScore">91</strong>
+              <span>종합점수</span>
+            </div>
+            <div class="summary-card">
+              <span>우선 검토</span>
+              <strong id="topProgram">대전 청년 매입임대</strong>
+              <small id="topReason">자격·입지·주거비 부담 완화 점수가 높습니다.</small>
+            </div>
+            <div class="summary-card">
+              <span>주의 조건</span>
+              <strong id="riskLabel">서류 준비</strong>
+              <small id="riskText">제출서류를 준비하면 준비 용이성이 상승합니다.</small>
+            </div>
+          </div>
+
+          <nav class="tabs" aria-label="프로토타입 화면 전환">
+            <button class="tab active" type="button" data-view="match">추천 공고</button>
+            <button class="tab" type="button" data-view="detail">점수 상세</button>
+            <button class="tab" type="button" data-view="map">지도 입지</button>
+            <button class="tab" type="button" data-view="evidence">근거·RAG</button>
+            <button class="tab" type="button" data-view="policy">정책 대시보드</button>
+          </nav>
+
+          <section class="view active" id="view-match" aria-label="예시 공고 추천">
+            <div class="view-heading">
+              <h3>예시 공고·제도 단위 추천</h3>
+              <p>공공임대, 청약, 주거급여, 전세지원, 특별공급을 같은 기준으로 비교하는 구조입니다.</p>
+            </div>
+            <div class="notice-list" id="noticeList"></div>
+          </section>
+
+          <section class="view" id="view-detail" aria-label="공고별 기준 점수 상세">
+            <div class="view-heading">
+              <h3>공고별 기준 점수 상세</h3>
+              <p>가능/불가능을 단정하지 않고, 어떤 기준이 강점·약점인지 분리합니다.</p>
+            </div>
+            <div class="detail-grid" id="detailGrid"></div>
+          </section>
+
+          <section class="view" id="view-map" aria-label="지도 기반 입지 분석">
+            <div class="view-heading">
+              <h3>지도 기반 입지 분석</h3>
+              <p>통근, 생활SOC, 주변 시세를 함께 보며 실제 생활 적합성을 비교합니다.</p>
+            </div>
+            <div class="map-layout">
+              <div class="map-canvas" aria-label="모의 지도">
+                <span class="road road-a"></span>
+                <span class="road road-b"></span>
+                <span class="road road-c"></span>
+                <span class="marker home">추천</span>
+                <span class="marker work">직장</span>
+                <span class="marker transit">역</span>
+                <span class="marker clinic">생활SOC</span>
+              </div>
+              <div class="location-score">
+                <article>
+                  <span>통근 시간</span>
+                  <strong id="commuteScore">28분</strong>
+                  <small>대중교통 환승 1회 기준</small>
+                </article>
+                <article>
+                  <span>생활SOC</span>
+                  <strong>4개</strong>
+                  <small>도보 15분 내 병원·도서관·공원·센터</small>
+                </article>
+                <article>
+                  <span>주변 시세 대비</span>
+                  <strong id="savingScore">예상 부담 완화</strong>
+                  <small>모의 시세 데이터 기준</small>
+                </article>
+              </div>
+            </div>
+          </section>
+
+          <section class="view" id="view-evidence" aria-label="공고문 근거와 RAG 챗봇">
+            <div class="view-heading">
+              <h3>공고문 근거 설명 + RAG 챗봇</h3>
+              <p>AI는 추천을 단정하지 않고, 공고문에서 추출한 기준과 원문 근거를 보여줍니다.</p>
+            </div>
+            <div class="evidence-layout">
+              <article class="source-card">
+                <div>
+                  <span class="tag">모의 공고문 구조화</span>
+                  <h4 id="sourceTitle">대전 청년 매입임대 입주자 모집공고</h4>
+                </div>
+                <dl>
+                  <div>
+                    <dt>모집대상</dt>
+                    <dd>무주택 청년, 소득·자산 기준 확인 대상</dd>
+                  </div>
+                  <div>
+                    <dt>예시 기간</dt>
+                    <dd>2026.07.15 ~ 2026.07.29</dd>
+                  </div>
+                  <div>
+                    <dt>필요서류</dt>
+                    <dd>주민등록등본, 가족관계증명, 소득증빙</dd>
+                  </div>
+                </dl>
+                <p class="quote">
+                  모의 원문 근거 예시: "입주자격은 모집공고일 현재 무주택 세대구성원으로서
+                  소득 및 자산 기준을 확인해야 함"
+                </p>
+              </article>
+              <article class="chat-card">
+                <div class="chat-row user">제 소득이면 청년 매입임대와 전세임대 중 무엇을 먼저 봐야 하나요?</div>
+                <div class="chat-row bot">
+                  현재 입력 조건에서는 매입임대의 자격·입지 점수가 더 높게 표시됩니다. 다만 전세임대는
+                  예시 점수상 신청 부담이 낮게 표시되어 예비 선택지로 함께 확인하는 것이 좋습니다.
+                  <span>모의 근거: 공고문 소득기준, 희망지역 입지 점수, 현재 주거비 입력값</span>
+                </div>
+              </article>
+            </div>
+          </section>
+
+          <section class="view" id="view-policy" aria-label="지역별 주거복지 사각지대 분석 대시보드">
+            <div class="view-heading">
+              <h3>지역별 주거복지 사각지대 분석</h3>
+              <p>향후 익명·집계 매칭 결과로 수요는 높지만 공급·신청 연결이 약한 영역을 찾는 설계 화면입니다.</p>
+            </div>
+            <div class="policy-grid">
+              <article>
+                <span>수요 과밀 지역</span>
+                <strong>대전 유성구 청년 1인가구</strong>
+                <div class="heat heat-high"></div>
+                <small>예시 지표: 자격 대상 대비 공고 연결 약함</small>
+              </article>
+              <article>
+                <span>정보 이탈 위험</span>
+                <strong>서류 조건 미확인 예시</strong>
+                <div class="heat heat-mid"></div>
+                <small>모의 지표: 신청 전 체크리스트 개선 필요</small>
+              </article>
+              <article>
+                <span>정책 인사이트</span>
+                <strong>전세지원·월세지원 동시 안내</strong>
+                <div class="heat heat-low"></div>
+                <small>공고와 제도 연결 추천</small>
+              </article>
+            </div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
